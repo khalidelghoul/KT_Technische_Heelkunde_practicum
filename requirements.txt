@@ -1,6 +1,4 @@
-menpo            
+menpo      
 mayavi
-menpo3d        
+menpo3d
 matplotlib
-numpy
-pandas
