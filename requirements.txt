@@ -1,5 +1,4 @@
 menpo==0.11.0
 mayavi==4.7.4
-menpo3d==0.8.0
 matplotlib==3.5.1
 PyQt5==5.15.6
