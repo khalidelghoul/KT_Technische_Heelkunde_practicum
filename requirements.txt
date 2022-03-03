@@ -1,4 +1,4 @@
-menpo3d
+menpo==0.11.0
 vtk==8.2.0
 matplotlib==3.5.1
 tqdm==4.63.0
