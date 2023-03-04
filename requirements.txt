@@ -1,9 +1,5 @@
 menpo==0.11.0
 vtk==8.1.2
 matplotlib==3.5.1
-tqdm==4.63.0
 PyQt5==5.15.6
 mayavi==4.8.1
-pandas
-dash
-jupyter_dash
